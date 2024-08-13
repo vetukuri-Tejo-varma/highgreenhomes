@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
         $response = array(
             "status" => "success",
-            "message" => "User found.",
+            "message" => "User found sucessfully",
             "data" => array(
                 "user_name" => $user_data['user_name'],
                 "user_email" => $user_data['user_email'],
