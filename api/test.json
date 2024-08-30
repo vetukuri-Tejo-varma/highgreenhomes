@@ -1,0 +1,256 @@
+{
+    "status": "success",
+    "categories": {
+        "Interior Design": {
+            "Residential": [
+                {
+                    "Living": [
+                        {
+                            "Foyer Unit": []
+                        },
+                        {
+                            "Popdesign": [
+                                "Wooden pop",
+                                "Gypsum pop"
+                            ]
+                        },
+                        {
+                            "Door": [
+                                "Wooden carving doors",
+                                "Brass casting door plate"
+                            ]
+                        },
+                        {
+                            "Window": []
+                        },
+                        {
+                            "Flooring": [
+                                "Stone",
+                                "wooden",
+                                "carpet"
+                            ]
+                        },
+                        {
+                            "Pooja Unit": []
+                        },
+                        {
+                            "Sofa": [
+                                "rexine(Normal)",
+                                "wooden"
+                            ]
+                        },
+                        {
+                            "Tifai": []
+                        },
+                        {
+                            "Tv unit": []
+                        },
+                        {
+                            "Partition": [
+                                "Airocon",
+                                "Wooden/Plywood",
+                                "Allumium"
+                            ]
+                        },
+                        {
+                            "Chairs": [
+                                "Rexine",
+                                "Wooden",
+                                "Plastic"
+                            ]
+                        },
+                        {
+                            "Curtains": [
+                                "Cloth",
+                                "Zebra blends",
+                                "Roman"
+                            ]
+                        },
+                        {
+                            "Designer": []
+                        },
+                        {
+                            "Carpet": []
+                        },
+                        {
+                            "Lighting": [
+                                "Zoomer",
+                                "Wall Lights",
+                                "Pop Pannelling Lights",
+                                "Balcony Lights"
+                            ]
+                        },
+                        {
+                            "Water Bubble Panel": []
+                        },
+                        {
+                            "Glass pillar": []
+                        }
+                    ]
+                },
+                {
+                    "Bed room": [
+                        {
+                            "Master Bed Room": [
+                                "Aristo Wardrobe",
+                                "Pressing",
+                                "Cot",
+                                "Cot Headrest",
+                                "Study Unit",
+                                "Mattress",
+                                "Pillows",
+                                "Protector",
+                                "Bed Spread",
+                                "Rug/Quilt"
+                            ]
+                        },
+                        {
+                            "Kids Bed Room": []
+                        }
+                    ]
+                },
+                {
+                    "Kitchen": [
+                        {
+                            "Modular Kitchen": []
+                        },
+                        {
+                            "Crockery Unit": []
+                        },
+                        {
+                            "Dining": []
+                        },
+                        {
+                            "Kitchen Chimney": []
+                        },
+                        {
+                            "Kitchen Hob": []
+                        },
+                        {
+                            "Kitchen Sink": []
+                        },
+                        {
+                            "Breakfast Counter": []
+                        }
+                    ]
+                },
+                {
+                    "Bathroom": [
+                        {
+                            "Mirror": []
+                        },
+                        {
+                            "Glass Partition": []
+                        },
+                        {
+                            "Bath Tub": []
+                        },
+                        {
+                            "Shower": []
+                        },
+                        {
+                            "Commade": []
+                        },
+                        {
+                            "Hand Wash Unit": []
+                        }
+                    ]
+                }
+            ],
+            "Commercial": [
+                {
+                    "Hotel": []
+                },
+                {
+                    "Hospital": []
+                },
+                {
+                    "School": []
+                },
+                {
+                    "Office": []
+                }
+            ]
+        },
+        "Exterior Design": {
+            "Cladding": [
+                {
+                    "Stone & Tiles Cladding": []
+                },
+                {
+                    "Wooden & Bricks Cladding": []
+                },
+                {
+                    "Acp Cladding": []
+                },
+                {
+                    "High Pressure Laminate": []
+                },
+                {
+                    "Metal & S Cladding": []
+                },
+                {
+                    "Texture Cladding": []
+                },
+                {
+                    "Gypsum Board Cladding": []
+                }
+            ],
+            "Acp Work": [],
+            "Stair Case": [],
+            "Gates": [],
+            "WaterFountain": [],
+            "Grills": [
+                {
+                    "Ss Grill": []
+                },
+                {
+                    "MS Grill": []
+                }
+            ],
+            "Swimming Pool": [],
+            "Railing": [
+                {
+                    "Ss & MS Railing": []
+                },
+                {
+                    "Brass Railing": []
+                }
+            ]
+        },
+        "Construction": {
+            "Residental": [
+                {
+                    "Single Door": []
+                },
+                {
+                    "Duplex": []
+                },
+                {
+                    "Triplex": []
+                },
+                {
+                    "Multistory Buildings": []
+                }
+            ],
+            "Commerical": [
+                {
+                    "Hotel": []
+                },
+                {
+                    "Hospital": []
+                },
+                {
+                    "Office": []
+                },
+                {
+                    "School": []
+                }
+            ]
+        },
+        "Eco-Friendly": {
+            "Balcony gardening": [],
+            "Living Door": []
+        }
+    }
+}
