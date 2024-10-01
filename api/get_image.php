@@ -25,8 +25,10 @@ if (mysqli_num_rows($result) > 0) {
     while ($row = mysqli_fetch_array($result)) {
         array_push($response['images'], "https://highgreenhomes.com/api/uploads/" . $row['file_name']);
     }
+    $response['count'] = count($response['images']);
 } else {
     $response['status'] = 'no records found';
+    $response['count'] = 0;
 }
 
 // Encode and return the response

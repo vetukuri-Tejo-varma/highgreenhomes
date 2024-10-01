@@ -16,10 +16,16 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $mobile_number = sanitize($_POST['mobile_number']);
     $message = sanitize($_POST['message']);
     $timestamp = date('Y-m-d H:i:s'); // Get the current timestamp
+    $email = sanitize($_POST['email']);
+    $name = sanitize($_POST['name']);
+    $lastname = sanitize($_POST['lastname']);
+    $firstname = sanitize($_POST['firstname']);
+    $type = sanitize($_POST['type']);
+
 
     // Prepare the SQL statement to insert the chat data
-    $sql_insert = "INSERT INTO chat_data (user_id, mobile_number, message, timestamp) 
-                   VALUES ('$user_id', '$mobile_number', '$message', '$timestamp')";
+    $sql_insert = "INSERT INTO chat_data (user_id, mobile_number, message, timestamp,name,email,lastname,firstname,type) 
+                   VALUES ('$user_id', '$mobile_number', '$message', '$timestamp','$name','$email','$lastname','$firstname','$type')";
 
     // Execute the query and check for success
     if ($conn->query($sql_insert) === TRUE) {
